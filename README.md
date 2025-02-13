@@ -1,4 +1,5 @@
-<img src="img/i$thi$leg@l.jpg" width="300"/>
+<img src="img/i$thi$leg@l.jpg" width="300" style="border-radius: 50%;"/>
+
 
 # i$THI$LEG@L.XYZ The Future of Truth Meme-based Cryptocurrency
 
