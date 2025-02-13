@@ -1,4 +1,4 @@
-![i$THI$LEG@L](img/i$thi$leg@l.jpg)
+<img src="img/i$thi$leg@l.jpg" width="300"/>
 
 # i$THI$LEG@L.XYZ The Future of Truth Meme-based Cryptocurrency
 
