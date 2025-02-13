@@ -1,6 +1,6 @@
 <img src="img/i$thi$leg@l.jpg" width="150"/>
 
-# iSTHISLEGAL.XYZ The Future of Truth Meme-based Cryptocurrency
+# ISTHISLEGAL.XYZ The Future of Truth Meme-based Cryptocurrency
 
 **YOUR ILLEGAL-STYLED DIGITAL CURRENCY!**
 
